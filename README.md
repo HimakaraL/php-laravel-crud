@@ -1,6 +1,6 @@
 php Laravel simple CRUD application
 Frontend using bootstrap
-
+Used DatabaSeeder for data
 
 <img width="664" alt="Capture" src="https://github.com/user-attachments/assets/0c95e496-d204-40a4-b667-82d9498fc280">
 
